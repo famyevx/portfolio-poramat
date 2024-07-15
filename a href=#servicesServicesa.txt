@@ -1,0 +1,22 @@
+<a href="#services">Services</a>
+
+ <a href="#" class="menu-btn">
+                <span>Let's Talk</span>
+                <i class="ri-message-3-line"></i>
+            </a>
+
+
+
+
+.menu-btn{
+    display: inline-block;
+    padding: 15px 25px;
+    background: linear-gradient(135deg, #e1bac5 0%, var(--main-color) 100%);
+    color: var(--bg-color);
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 13px;
+}
+.menu-btn{
+    background: linear-gradient(135deg, var(--main-color) 0%, #e1bac5 100%);
+}
